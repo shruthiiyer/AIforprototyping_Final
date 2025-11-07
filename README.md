@@ -1,10 +1,10 @@
-# 🎾 Tennis Tracker
+# Tennis Tracker
 
 Tennis Tracker is a web/mobile application that helps tennis players and coaches document, analyze, and track a player's performance across tournaments.
 
 It provides an intuitive dashboard to record match scores, opponents, stats, and tournament events — helping players visualize progress, identify patterns, and refine strategies.
 
-## 🧭 Table of Contents
+## Table of Contents
 
 - [Overview](#-overview)
 - [Key Features](#-key-features)
@@ -16,7 +16,7 @@ It provides an intuitive dashboard to record match scores, opponents, stats, and
 - [Contributing](#-contributing)
 - [License](#-license)
 
-## 🏸 Overview
+## Overview
 
 Tennis Tracker was designed for players, coaches, and teams who want a centralized performance journal.
 
@@ -24,7 +24,7 @@ Instead of juggling spreadsheets and screenshots, you can record tournament data
 
 Whether you're training for local tournaments or ATP-level matches, Tennis Tracker keeps your progress measurable, shareable, and motivating.
 
-## 🚀 Key Features
+## Key Features
 
 - **Tournament Logging** — Add and manage tournaments, locations, and dates.
 - **Match Records** — Record scores, opponents, surfaces, and weather conditions.
@@ -35,7 +35,7 @@ Whether you're training for local tournaments or ATP-level matches, Tennis Track
 - **Data Visualization** (optional) — View player trends via charts and insights.
 - **Cloud Sync** (if applicable) — Access data anywhere, across devices.
 
-## 🧰 Tech Stack
+## Tech Stack
 
 (Modify based on your setup — here's a solid example stack)
 
@@ -46,7 +46,7 @@ Whether you're training for local tournaments or ATP-level matches, Tennis Track
 - **Analytics:** Chart.js / Recharts
 - **Deployment:** Vercel / Render / AWS / Netlify
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Frontend (React)
@@ -60,7 +60,7 @@ Backend (Node.js or FastAPI)
    |--> Cloud Storage (Optional for images, videos, etc.)
 ```
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Clone the Repository
 
@@ -95,7 +95,7 @@ yarn dev
 ```
 
 Then visit:
-👉 **http://localhost:3000**
+ **http://localhost:3000**
 
 ## 🕹️ Usage
 
@@ -105,15 +105,15 @@ Then visit:
 4. View performance insights and trends over time
 5. (Optional) Share performance summaries or export reports
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
-- 🎥 Video analysis integration (upload match clips)
-- 📈 AI-based performance summaries
-- 📊 Comparison between players
-- 🔔 Notifications and reminders for upcoming tournaments
-- 📱 iOS / Android native app
+-  Video analysis integration (upload match clips)
+- AI-based performance summaries
+   Comparison between players
+- Notifications and reminders for upcoming tournaments
+- iOS / Android native app
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, feedback, and feature requests are always welcome!
 
